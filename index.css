@@ -1,0 +1,22 @@
+.bcolor{
+  background-color: rgb(14, 7, 36);
+}
+
+.bgcolor{
+  background-color: red;
+}
+
+.color{
+  background-color: #04142c;
+}
+
+body{  background-color: rgb(14, 7, 36);
+  
+}
+.cardcolor{
+  background-color:#023886 ;
+  border: 3px solid #adb5bd;
+    border-radius: 1.25rem;
+  border: 3px solid #adb5bd;
+    color:#adb5bd;
+}
